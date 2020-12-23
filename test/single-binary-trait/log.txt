@@ -1,0 +1,134 @@
+GPOPsim ___________Last modified 2014/10/17
+          ========================================
+          |              GPOPSIM                 |
+          |Genomic POPulation SIMulation software|
+          |                 by Zhang Zhe 2010/03 |
+          |                  zhangzhecau@126.com |
+          |Function module-                      |
+                  Multiple correlated traits     |
+          |           (continuous and threshold) |
+          |                 by Xiujin Li 2019/09 |
+          |                lixiujin996@gmail.com |
+          |Function module-                      |
+          |        G by E interaction            |
+          |                 by Xiujin Li 2020/06 |
+          |                lixiujin996@gmail.com |
+          |             by Hailiang Song 2020/06 |
+          |                  songhl@cau.edu.cn   |
+          ========================================
+    1   generation finished!
+    2   generation finished!
+    3   generation finished!
+    4   generation finished!
+    5   generation finished!
+    6   generation finished!
+    7   generation finished!
+    8   generation finished!
+    9   generation finished!
+   10   generation finished!
+   11   generation finished!
+   12   generation finished!
+   13   generation finished!
+   14   generation finished!
+   15   generation finished!
+   16   generation finished!
+   17   generation finished!
+   18   generation finished!
+   19   generation finished!
+   20   generation finished!
+   21   generation finished!
+   22   generation finished!
+   23   generation finished!
+   24   generation finished!
+   25   generation finished!
+   26   generation finished!
+   27   generation finished!
+   28   generation finished!
+   29   generation finished!
+   30   generation finished!
+   31   generation finished!
+   32   generation finished!
+   33   generation finished!
+   34   generation finished!
+   35   generation finished!
+   36   generation finished!
+   37   generation finished!
+   38   generation finished!
+   39   generation finished!
+   40   generation finished!
+   41   generation finished!
+   42   generation finished!
+   43   generation finished!
+   44   generation finished!
+   45   generation finished!
+   46   generation finished!
+   47   generation finished!
+   48   generation finished!
+   49   generation finished!
+   50   generation finished!
+   51   generation finished!
+   52   generation finished!
+   53   generation finished!
+   54   generation finished!
+   55   generation finished!
+   56   generation finished!
+   57   generation finished!
+   58   generation finished!
+   59   generation finished!
+   60   generation finished!
+   61   generation finished!
+   62   generation finished!
+   63   generation finished!
+   64   generation finished!
+   65   generation finished!
+   66   generation finished!
+   67   generation finished!
+   68   generation finished!
+   69   generation finished!
+   70   generation finished!
+   71   generation finished!
+   72   generation finished!
+   73   generation finished!
+   74   generation finished!
+   75   generation finished!
+   76   generation finished!
+   77   generation finished!
+   78   generation finished!
+   79   generation finished!
+   80   generation finished!
+   81   generation finished!
+   82   generation finished!
+   83   generation finished!
+   84   generation finished!
+   85   generation finished!
+   86   generation finished!
+   87   generation finished!
+   88   generation finished!
+   89   generation finished!
+   90   generation finished!
+   91   generation finished!
+   91   generation finished!
+   92   generation finished!
+   93   generation finished!
+   94   generation finished!
+   95   generation finished!
+   96   generation finished!
+   97   generation finished!
+   98   generation finished!
+   99   generation finished!
+  100   generation finished!
+Stage 1 finished!
+ Total QTL number =   10
+ Threshold value=  -1.658300
+Getbv passed.
+    1   generation finished!
+Stage 2 finished!
+    2   generation finished!
+    3   generation finished!
+Stage   3 finished!
+
+        ========Congratulation========
+        Program end without any error!
+         15:44:34 --> 15:44:46
+        With random seed       458042132
+        ==============================

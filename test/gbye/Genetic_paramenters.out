@@ -1,0 +1,9 @@
+random variables order: alpha0, Beta, alpha1
+Realized Additive Covariance matrix:
+      0.9999999	     -0.0270378	      0.1988271	
+     -0.0270378	      0.9999998	     -0.2372369	
+      0.1988271	     -0.2372369	      0.2500000	
+Residual Covariance matrix:
+      9.0000000	      0.3000000	      0.0000000	
+      0.3000000	      1.0000000	      0.0000000	
+      0.0000000	      0.0000000	      0.2500000	
