@@ -1,0 +1,11 @@
+phenotyp_file	0
+01BV.out	307
+02BV.out	318
+03BV.out	306
+04BV.out	306
+05BV.out	306
+06BV.out	301
+07BV.out	304
+08BV.out	306
+09BV.out	299
+10BV.out	309
